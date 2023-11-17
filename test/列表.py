@@ -37,6 +37,7 @@ print(a)
 f = a.pop(5)
 print(a)
 print(f)
+print(f"{f} 666")
 
 '''删除某元素在列表中的第一个匹配项'''
 a.remove(None)
