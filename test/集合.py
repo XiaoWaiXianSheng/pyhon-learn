@@ -4,6 +4,7 @@ my_set = set()
 
 my_set1 = {"a", "b", "c", "d"}
 
+'''随机取值'''
 print(my_set1.pop())
 
 
