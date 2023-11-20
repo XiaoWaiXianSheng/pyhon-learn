@@ -20,7 +20,7 @@ print(my_str)
 my_list = my_str.split()
 print(my_list)
 
-'''strip方法，字符串的规整操作（去除字符串的前后空格）'''
+'''strip方法，字符串的规整操作（去除字符串的前后空格以及换行符）'''
 my_str1 = " then itheima and itcast   "
 my_str2 = my_str1.strip()
 print(my_str1)
