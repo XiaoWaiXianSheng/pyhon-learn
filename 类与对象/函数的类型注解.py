@@ -1,5 +1,5 @@
+"""形参注解"""
 
-'''形参注解'''
 def add(x: int, y: int):
     return x + y
 
